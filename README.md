@@ -63,7 +63,7 @@ To get started with SchedulEase, follow the steps below:
 
 - **Database Configuration**: Update the `db.properties` file with your MySQL credentials:
    ```properties
-   db.url=jdbc:mysql://localhost:3036/todo
+   db.url=jdbc:mysql://localhost:3036/schedulease
    db.user=root
    db.password=root
    ```
